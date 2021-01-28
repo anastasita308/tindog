@@ -23,7 +23,7 @@ h3{
 }
 
 p{
-    color: #8f8f8f
+    color: #8f8f8f;
 }
 
 /* Containers */
@@ -60,7 +60,7 @@ p{
 }
 
 .nav-link{
-    font-weight: 100;
+    font-weight: 300;
     font-size: 1.2rem;
     color: white;
 }
@@ -158,6 +158,10 @@ p{
 
     #title .container-fluid{
         text-align: center;
+    }
+    
+    #testimonials .container-fluid{
+        padding-top: 10%;
     }
 
 }
