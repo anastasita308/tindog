@@ -60,7 +60,7 @@ p{
 }
 
 .nav-link{
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.2rem;
     color: white;
 }
@@ -161,7 +161,7 @@ p{
     }
     
     #testimonials .container-fluid{
-        padding-top: 10%;
+        padding-top: 12%;
     }
 
 }
